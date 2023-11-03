@@ -22,7 +22,7 @@ Me chamo vitor  tenho 31 anos
 
 ### Linguagens Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor216&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor216&layout=compact&theme=dark)
 
 ### Contatos
 
