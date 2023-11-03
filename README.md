@@ -18,4 +18,4 @@
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/Linkedin-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkdin' height='30'>](https://www.linkedin.com/in/vitor-aguiar-a29103256/)
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vitor-aguiar-a29103256/)
