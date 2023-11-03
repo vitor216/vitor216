@@ -7,6 +7,8 @@
 ![PlSql](https://img.shields.io/badge/PlSql-FB0000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/youtube/channel/subscribers/:channelId?style=for-the-badge&logo=youtube&logoColor=red)
+
 
 ### Detalhes
 
