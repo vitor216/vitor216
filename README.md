@@ -15,3 +15,7 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitor216&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/Linkedin-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkdin' height='30'>](https://www.linkedin.com/in/vitor-aguiar-a29103256/)
