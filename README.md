@@ -18,7 +18,7 @@ Me chamo vitor  tenho 31 anos
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitor216&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitor216&repo=clone_disneyplus&theme=dark)](https://github.com/vitor216/clone_disneyplus)
 
 ### Linguagens Utilizadas
 
